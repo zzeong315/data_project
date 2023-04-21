@@ -1,6 +1,6 @@
 # 데이터 분석 웹 서비스 프로젝트
-
-<img src="https://i.ibb.co/2vR8STP/Group-243.png" alt="drawing" width="300"/>   
+<!-- 
+<img src="https://i.ibb.co/2vR8STP/Group-243.png" alt="drawing" width="300"/>    -->
 
 ## BE part
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

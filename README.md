@@ -1,8 +1,11 @@
-<br>
-<img src="https://i.ibb.co/2vR8STP/Group-243.png" alt="drawing" width="300"/>
+
+# 🌱 풀빛마실
+
+<!-- <img src="https://i.ibb.co/2vR8STP/Group-243.png" alt="drawing" width="300"/>
 <figure>
     <img src="https://i.ibb.co/ZKMrTnw/24817789-77z-2203-w014-n001-31a-p21-31.jpg" title="plogging">    
-</figure>
+</figure> -->
+
 🌿풀빛마실은 조깅을 하며 쓰레기를 줍는 '플로깅'을 확대하여 동네 이웃과 함께 산책을 하며 환경을 보호할 수 있는 커뮤니티 서비스입니다. 환경 문제에 대해 누구나 큰 마음을 먹을 수는 없기에, 작지만 자발적인 실천을 모아가면 좋겠다는 마음에서 시작하였습니다.🌿
 
 ## **프로젝트 구성 안내**
@@ -83,13 +86,13 @@
     - OAuth : Kakao, NAVER
       <br>
 
-- #### 프로젝트 구조도
+<!-- - #### 프로젝트 구조도
 
   ![프로젝트 구조도](https://i.ibb.co/jfHJnHp/architecture.png)
 
 - #### [ERD](https://dbdiagram.io/d/634f9ad9470941019591d333)
 
-  ![ERD](https://i.ibb.co/5Kscx0F/Untitled-1.png)
+  ![ERD](https://i.ibb.co/5Kscx0F/Untitled-1.png) -->
 
 - #### [피그마 디자인](https://www.figma.com/file/P90IfQYS5NauIDQif13PGO/%ED%92%80%EB%B9%9B%EB%A7%88%EC%8B%A4?node-id=0%3A1)
   <br>
@@ -126,7 +129,7 @@
 - 개발 단계: 웹 서버 사용자가 직접 백엔드에 저장할수 있는 기능 구현, 데이터 베이스 구축 및 API 활용, 데이터 분석 개념 총동원하기
 - 수정 단계: 코치님 피드백 반영해서 분석/ 시각화 방식 수정
 
-## 6. 버전
+<!-- ## 6. 버전
 
 - 프로젝트의 버전 기입
 
@@ -134,4 +137,4 @@
 
 - 자주 받는 질문 정리
 
-<figcaption style="color:grey">Redgreystock - Freepik.com</figcaption>
+<figcaption style="color:grey">Redgreystock - Freepik.com</figcaption> -->
