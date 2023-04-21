@@ -4,62 +4,21 @@
 
 ## 사용기술(라이브러리)
 
-<img src="https://img.shields.io/badge/React-61DAFB?
-          style=flat
-          &logo=React
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?
-        style=flat
-        &logo=TypeScript
-        &logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?
-          style=flat		
-          &logo=ReactQuery
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-212121?
-          style=flat		
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?
-          style=flat		
-          &logo=Chart.js
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/Day.js-757575?
-          style=flat		
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer Motion-0055FF?
-          style=flat		
-          &logo=Framer
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/react table-FF4154?
-          style=flat		
-          &logo=React Table
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/fullpage.js -A493E7?
-          style=flat		
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/react helmet-3C2179?
-          style=flat		
-          &logoColor=white"/>  
-<img src="https://img.shields.io/badge/React Hook Form-EC5990?
-          style=flat		
-          &logo=React Hook Form
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/Font Awesome-528DD7?
-          style=flat		
-          &logo=Font Awesome
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?
-          style=flat		
-          &logo=styled-components
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?
-          style=flat		
-          &logo=Axios
-          &logoColor=white"/>
-<img src="https://img.shields.io/badge/crarco-C61C3E?
-          style=flat		
-          &logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-212121?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Day.js-757575?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/FramerMotion-0055FF?style=flat&logo=Framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/reactTable-FF4154?style=flat&logo=ReactTable&logoColor=white"/>
+<img src="https://img.shields.io/badge/fullpage.js-A493E7?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/reactHelmet-3C2179?style=flat&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=ReactHookForm&logoColor=white"/>
+<img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat&logo=FontAwesome&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styled-Components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/crarco-C61C3E?style=flat&logoColor=white"/>
 <br>
 
 ## ⚒기술 사용 이유
